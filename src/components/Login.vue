@@ -20,7 +20,7 @@
                 <router-link to="/forgot-password">Forgot password ?</router-link>
                 <br>
                 New User?
-                <router-link to="/"> Sign Up For Free!</router-link>
+                <router-link to="/"> Sign Up!</router-link>
             </p>
         </form>
     </div>
